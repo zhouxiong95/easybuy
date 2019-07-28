@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easybuy-basic-parent/easybuy-basic-parent.iml" filepath="$PROJECT_DIR$/easybuy-basic-parent/easybuy-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easybuy-basic-parent/easybuy-basic-util/easybuy-basic-util.iml" filepath="$PROJECT_DIR$/easybuy-basic-parent/easybuy-basic-util/easybuy-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easybuy-config-server/easybuy-config-server.iml" filepath="$PROJECT_DIR$/easybuy-config-server/easybuy-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easybuy-eureka/easybuy-eureka.iml" filepath="$PROJECT_DIR$/easybuy-eureka/easybuy-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easybuy-parent.iml" filepath="$PROJECT_DIR$/easybuy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easybuy-plat-parent/easybuy-plat-interface/easybuy-plat-interface.iml" filepath="$PROJECT_DIR$/easybuy-plat-parent/easybuy-plat-interface/easybuy-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easybuy-plat-parent/easybuy-plat-parent.iml" filepath="$PROJECT_DIR$/easybuy-plat-parent/easybuy-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easybuy-plat-parent/easybuy-plat-service/easybuy-plat-service.iml" filepath="$PROJECT_DIR$/easybuy-plat-parent/easybuy-plat-service/easybuy-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easybuy-zuul/easybuy-zuul.iml" filepath="$PROJECT_DIR$/easybuy-zuul/easybuy-zuul.iml" />
+    </modules>
+  </component>
+</project>

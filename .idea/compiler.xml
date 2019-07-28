@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easybuy-basic-util" />
+        <module name="easybuy-config-server" />
+        <module name="easybuy-eureka" />
+        <module name="easybuy-plat-interface" />
+        <module name="easybuy-plat-service" />
+        <module name="easybuy-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easybuy-basic-parent" target="8" />
+      <module name="easybuy-basic-util" target="8" />
+      <module name="easybuy-config-server" target="8" />
+      <module name="easybuy-eureka" target="8" />
+      <module name="easybuy-parent" target="8" />
+      <module name="easybuy-plat-interface" target="8" />
+      <module name="easybuy-plat-parent" target="8" />
+      <module name="easybuy-plat-service" target="8" />
+      <module name="easybuy-zuul" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
