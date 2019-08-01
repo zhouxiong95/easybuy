@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>easybuy-basic-util</module>
+        <module>easybuy-basic-generator</module>
     </modules>
 
 

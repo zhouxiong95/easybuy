@@ -15,4 +15,7 @@ zuul:
     plat:
       path: /plat/** #平台服务的请求路径
       serviceId: plat-service   #这个就是service模块yml的名字，就能找到
+    product:
+          path: /product/** #平台服务的请求路径
+          serviceId: product-service   #这个就是service模块yml的名字，就能找到
   prefix: /services #请求前缀,swagger可以用，这个名字加path就能找到我service模块的login。

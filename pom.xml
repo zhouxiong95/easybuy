@@ -14,6 +14,7 @@
         <module>easybuy-eureka</module>
         <module>easybuy-plat-parent</module>
         <module>easybuy-zuul</module>
+        <module>easybuy-product-parent</module>
     </modules>
 
     <properties>

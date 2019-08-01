@@ -6,15 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="easybuy-basic-generator" />
         <module name="easybuy-basic-util" />
         <module name="easybuy-config-server" />
         <module name="easybuy-eureka" />
         <module name="easybuy-plat-interface" />
         <module name="easybuy-plat-service" />
+        <module name="easybuy-product-interface" />
+        <module name="easybuy-product-service" />
         <module name="easybuy-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="easybuy-basic-generator" target="8" />
       <module name="easybuy-basic-parent" target="8" />
       <module name="easybuy-basic-util" target="8" />
       <module name="easybuy-config-server" target="8" />
@@ -23,6 +27,9 @@
       <module name="easybuy-plat-interface" target="8" />
       <module name="easybuy-plat-parent" target="8" />
       <module name="easybuy-plat-service" target="8" />
+      <module name="easybuy-product-interface" target="8" />
+      <module name="easybuy-product-parent" target="8" />
+      <module name="easybuy-product-service" target="8" />
       <module name="easybuy-zuul" target="8" />
     </bytecodeTargetLevel>
   </component>
